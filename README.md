@@ -88,9 +88,9 @@ The study found substantial methodological diversity. Workflows combining comple
 
 When using this repository, please cite the associated manuscript:
 
-> Ezenarro, J., Schorn-García, D., Vera-i-Valls, N., Pellegrino, M., Busto, O., Mestres, M., Aceña, L., Capdevila, J., Ruisánchez, I., Riu, J., Ferré, J., & Boqué, R. (2026). *The CAC2026 Data Challenge: A comparative study of chemometric modelling strategies for olive oil quality assessment*. Manuscript.
+> Ezenarro, J., Schorn-García, D., Vera-i-Valls, N., Pellegrino, M., Busto, O., Mestres, M., Aceña, L., Capdevila, J., Ruisánchez, I., Riu, J., Ferré, J., & Boqué, R. (2026). The CAC2026 Data Challenge: A comparative study of chemometric modelling strategies for olive oil quality assessment. *Manuscript submitted to Analytica Chimica Acta*
 
-Please also cite the study that introduced the source dataset:
+May also be of interest, the study that introduced the source dataset:
 
 > Borràs, E., Ferré, J., Boqué, R., Mestres, M., Aceña, L., Calvo, A., & Busto, O. (2016). Olive oil sensory defects classification with data fusion of instrumental techniques and multivariate analysis (PLS-DA). *Food Chemistry, 203*, 314-322. https://doi.org/10.1016/j.foodchem.2016.02.038
 
