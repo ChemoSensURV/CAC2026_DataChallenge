@@ -88,7 +88,7 @@ The study found substantial methodological diversity. Workflows combining comple
 
 When using this repository, please cite the associated manuscript:
 
-> Ezenarro, J., Schorn-García, D., Vera-i-Valls, N., Pellegrino, M., Busto, O., Mestres, M., Aceña, L., Capdevila, J., Ruisánchez, I., Riu, J., Ferré, J., & Boqué, R. (2026). The CAC2026 Data Challenge: A comparative study of chemometric modelling strategies for olive oil quality assessment. *Manuscript submitted to Analytica Chimica Acta*
+> Ezenarro, J., Schorn-García, D., Vera-i-Valls, N., Pellegrino, M., Busto, O., Mestres, M., Aceña, L., Capdevila, J., Ruisánchez, I., Riu, J., Ferré, J., & Boqué, R. (2026). The CAC2026 Data Challenge: A comparative study of chemometric modelling strategies for olive oil quality assessment. *Manuscript submitted to Analytica Chimica Acta*.
 
 May also be of interest, the study that introduced the source dataset:
 
